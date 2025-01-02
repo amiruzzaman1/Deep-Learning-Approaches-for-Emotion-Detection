@@ -23,6 +23,7 @@ This distribution ensures that models are trained on a balanced representation o
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XI6mBPTJeitoQjk7qt9XLUV78LvryGSL?usp=sharing)
 ## Dataset Overview
 **Dataset Link:** [Emotions Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/emotions/data)
+
 ![image](https://github.com/user-attachments/assets/87c7f734-0936-47fd-95ba-a18a044a22f4)
 ![image](https://github.com/user-attachments/assets/576d4d50-c542-436c-991b-15105a8cc18b)
 ![newplot](https://github.com/user-attachments/assets/21dcf6b9-5181-4ba3-95f3-1975f8227976)
